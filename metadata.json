@@ -1,0 +1,6 @@
+{
+  "name": "Screen Time",
+  "description": "An interactive screen time tracker featuring daily usage reports, app-specific limits, and category-level limit options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
